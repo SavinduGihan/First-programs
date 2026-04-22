@@ -49,6 +49,6 @@ void displayMenu() {
 
 int main() {
     displayMenu();
-    printf("Program finished.\n");
+    printf("Program Finished.\n");
     return 0;
 }
